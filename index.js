@@ -18,6 +18,14 @@ var questions = [{
 {
   question: "How old i'am? ",
   answer: "22"
+},
+{
+  question: "where do  i work? ",
+  answer: "home"
+},
+{
+  question: "what is my favorite game? ",
+  answer: "cricket"
 }];
 
 function welcome() {
